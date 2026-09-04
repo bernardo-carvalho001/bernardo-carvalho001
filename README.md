@@ -4,7 +4,7 @@ Sou um estudante, atualmente cursando **Engenharia de Software** na **UDF - Cent
 
 
 🔭 Atualmente estou explorando:
-- Desenvolvimento full-stack
+- Desenvolvimento back-end
 - Arquitetura de software
 - Banco de dados e otimização de sistemas
 ---
