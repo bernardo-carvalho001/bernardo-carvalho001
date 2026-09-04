@@ -1,4 +1,4 @@
-# 🚀 Olá, eu sou Bernardo Carvalho
+# 🧙‍♂️ Olá, eu sou Bernardo Carvalho
 
 Sou um estudante, atualmente cursando **Engenharia de Software** na **UDF - Centro Universitário do Distrito Federal**.
 
@@ -24,3 +24,4 @@ Sou um estudante, atualmente cursando **Engenharia de Software** na **UDF - Cent
 ![Padrão](https://img.shields.io/badge/Padrão-Clean_Architecture-EF6C00?style=flat)
 
 ---
+🪄 _MELLON_ 
