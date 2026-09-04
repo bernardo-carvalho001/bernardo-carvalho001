@@ -14,5 +14,6 @@ Sou um estudante, atualmente cursando **Engenharia de Software** na **UDF - Cent
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![C](https://img.shields.io/github/pipenv/locked/python-version/:user/:repo)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)****
 
 ---
